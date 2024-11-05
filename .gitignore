@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+
+# Linux files
+*.egg-info/
+*.eggs/
+*.lock
+*.log
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# Poetry files
+poetry.lock
+
+# Virtualenv
+.venv
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# FastAPI specific
+alembic/versions/
+instance/
+
+# Docker
+docker-compose.yml
+Dockerfile
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Local .env files
+.env
+*.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Static files
+static/
+media/
+
+# Output files
+*.out
+
+# Testing
+tests/test-output/
+junit-xml/
+
+# Caches
+.cache/
+
+# Yarn and npm
+node_modules/
+yarn.lock
+package-lock.json
+
+# Temporary files
+tmp/
+temp/
